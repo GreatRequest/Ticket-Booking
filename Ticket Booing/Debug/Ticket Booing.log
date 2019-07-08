@@ -1,40 +1,17 @@
 ﻿  Ticket Booking.cpp
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(14,18): warning C4305:  'initializing': truncation from 'int' to 'char'
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(14,10): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(15,18): warning C4305:  'initializing': truncation from 'int' to 'char'
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(15,10): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(16,10): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(17,10): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(18,10): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(19,10): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(21,14): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(23,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(24,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(25,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(26,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(27,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(28,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(29,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(30,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(91,10): warning C4477:  'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'char *'
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(91,10): message :  consider using '%hs' in the format string
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(91,10): message :  consider using '%Ts' in the format string
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(91,10): message :  this warning is based on non-standard semantics used by Visual C++
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(91,10): warning C4477:  'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 2 has type 'char *'
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(91,10): message :  consider using '%hs' in the format string
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(91,10): message :  consider using '%Ts' in the format string
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(91,10): message :  this warning is based on non-standard semantics used by Visual C++
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(251,69): warning C4474:  'wprintf' : too many arguments passed for format string
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(251,69): message :  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(312,69): warning C4474:  'wprintf' : too many arguments passed for format string
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(312,69): message :  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(373,69): warning C4474:  'wprintf' : too many arguments passed for format string
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(373,69): message :  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(434,69): warning C4474:  'wprintf' : too many arguments passed for format string
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(434,69): message :  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(495,69): warning C4474:  'wprintf' : too many arguments passed for format string
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(495,69): message :  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(531,12): warning C4477:  'wprintf' : format string '%i' requires an argument of type 'int', but variadic argument 2 has type 'double'
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(538,12): warning C4477:  'wprintf' : format string '%i' requires an argument of type 'int', but variadic argument 2 has type 'double'
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(545,12): warning C4477:  'wprintf' : format string '%i' requires an argument of type 'int', but variadic argument 2 has type 'double'
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(34,10): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(35,10): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(36,10): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(37,10): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(38,10): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(39,10): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(41,11): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(42,11): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(43,11): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(44,11): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(45,11): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(46,11): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(47,11): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(48,11): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(51,14): warning C4309:  'initializing': truncation of constant value
   Ticket Booing.vcxproj -> O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Debug\Ticket Booing.exe
