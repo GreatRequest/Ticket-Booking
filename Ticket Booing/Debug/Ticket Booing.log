@@ -1,17 +1,4 @@
 ﻿  Ticket Booking.cpp
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(34,10): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(35,10): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(36,10): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(37,10): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(38,10): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(39,10): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(41,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(42,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(43,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(44,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(45,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(46,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(47,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(48,11): warning C4309:  'initializing': truncation of constant value
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(51,14): warning C4309:  'initializing': truncation of constant value
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(91,54): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(122,23): warning C4018:  '<': signed/unsigned mismatch
   Ticket Booing.vcxproj -> O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Debug\Ticket Booing.exe
