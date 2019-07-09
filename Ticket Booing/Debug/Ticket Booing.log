@@ -1,4 +1,4 @@
 ﻿  Ticket Booking.cpp
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(91,54): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
-O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(122,23): warning C4018:  '<': signed/unsigned mismatch
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(162,54): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Ticket Booing\Ticket Booking.cpp(194,23): warning C4018:  '<': signed/unsigned mismatch
   Ticket Booing.vcxproj -> O:\OneDrive\USER PROFILE\Documents\Projects\C\Ticket Booking System C C++\Ticket Booing\Debug\Ticket Booing.exe
